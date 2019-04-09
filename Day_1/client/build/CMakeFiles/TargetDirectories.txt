@@ -1,0 +1,3 @@
+/home/zcc/Project/Project/Gobang/game/client/build/CMakeFiles/rebuild_cache.dir
+/home/zcc/Project/Project/Gobang/game/client/build/CMakeFiles/edit_cache.dir
+/home/zcc/Project/Project/Gobang/game/client/build/CMakeFiles/game_client.dir
